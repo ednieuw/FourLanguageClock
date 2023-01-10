@@ -1,11 +1,3 @@
-# FourLanguageClock
-Word clock with SK6812 LEDs in NL, DE, FR, UK
-<title>Four language word clock built instructions</title>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
-<META HTTP-EQUIV="Content-Language" CONTENT="en-gb">
-<META NAME="keywords" CONTENT="Arduino Nano Every 4-languages word clock DCF77 ATMEGA woordklok ">
-<META NAME="Template" CONTENT="This page described how to buit a word clock that display four languages with SK6812 or WS2812 LEDs">
-
 <style type="text/css">
 <!--
 h1,h2,h3,h4,h5,h6 {	font-family: Verdana, Arial, Helvetica, sans-serif;}
@@ -32,10 +24,12 @@ example, a single language for a clock with 144 (12x12) LEDs, various membrane
 keypads, a rotary, digital displays, a DCF77 atomic time receiver, Bluetooth 
 connection to a mobile phone, and support for SK6812 and other LED strips.</p>
 <p class="auto-style3">&nbsp;</p>
-<table width="902"><tr><td width="450"><a href="4LanguageClock/IMG_5557.JPG">
-	<img alt="Four language clock color" src="4LanguageClock/IMG_5557k.JPG" width="450"></a></td><td width="451">
+<table>
+  <tr><td><a href="4LanguageClock/IMG_5557.JPG">
+	<img src="4LanguageClock/IMG_5557k.JPG" alt="Four language clock color" "></a></td><td>
 	<a href="4LanguageClock/IMG_5560.JPG">
-	<img alt="Four language clock white" src="4LanguageClock/IMG_5560k.JPG" width="450"></a></td></tr><tr><td width="450">
+	<img src="4LanguageClock/IMG_5560k.JPG" alt="Four language clock white" ="450"></a></td>
+</tr><tr><td>
 		<font class="auto-style3">
 <br>
 		<p>&nbsp;</p>
@@ -46,17 +40,17 @@ connection to a mobile phone, and support for SK6812 and other LED strips.</p>
 		drive the LEDs also supports the use of many types of other LEDs.<br>
 		<br><br>SK6812 LEDs each contain a small processor, which means that the 
 		entire chain of LEDs can be controlled with one wire.</p>
-		</font></td><td width="451"><div align="left">
+  </font></td><td><div align="left">
 			<a href="4LanguageClock/4-talenklok_IMG_1176.jpg">
-			<img alt="Word clock with four languages" height="454" src="4LanguageClock/4languageclockIMG_1176.jpg" width="450"></a></div></td></tr></table>
-<p><font class="auto-style3">&nbsp;&lt;- <a href="../index.html">Start page<br></a><br><img src="WoordklokSK6812_files/IMG_1554.jpg" width="900" height="177"><br>
+			<img src="4LanguageClock/4languageclockIMG_1176.jpg" alt="Word clock with four languages" border="0"></a></div></td></tr></table>
+<p><font class="auto-style3">&nbsp;&lt;- <a href="../index.html">Start page<br></a><br><img src="WoordklokSK6812_files/IMG_1554.jpg"><br>
 <br>
 </font>The color word clock consists of the parts as shown in the table below.<br>
 You can order the electronics and PCB from me. I do not have the case and word 
 plate in stock.<br>Having a word plate made will cost 300 to 500 euros. JPGs of 
 two designs below.</p>
 <br class="auto-style3"><span class="auto-style3"><strong>Accessories</strong></span><br>
-<table width="538" border="1" cellpadding="3" cellspacing="0">
+<table cellspacing="0">
   <tr>
     <td class="xl67" width="277">1 x case for 50x50 cm word plate </td>
   </tr>
@@ -157,7 +151,7 @@ two designs below.</p>
 <p class="auto-style3"><strong><br class="auto-style3">
     Assembling the lighting base plate <br class="auto-style3">
   <br class="auto-style3">
-  <img alt="Verlichtings grondplaat" height="600" src="4LanguageClock/IMG_5345.JPG" width="450"><br class="auto-style3">
+  <img alt="Verlichtings grondplaat" src="4LanguageClock/IMG_5345.JPG"><br class="auto-style3">
 </strong><br class="auto-style3">
 </p>
 <p>The distance between the LEDs on the strip is suitable to make a clock of 50 
@@ -182,7 +176,8 @@ Finally, make sure that each strip has its power.<br>The spacer plate will be
 placed on the front, on top of the LEDs, and it must lie flat on the surface to 
 prevent light leakage.</p>
 <table><tr><font face="Verdana, Arial, Helvetica, sans-serif"><td>
-<img alt="Spacerplaat" height="449" src="4LanguageClock/IMG_5347.JPG" width="450"> </td><td><img src="WoordklokSK6812_files/IMG_1523.jpg" width="450" height="450"></td> 
+<img alt="Spacerplaat" src="4LanguageClock/IMG_5347.JPG"> </td>
+<td><img src="WoordklokSK6812_files/IMG_1523.jpg"></td> 
 </font></tr><tr><td class="auto-style3">spacer plate</td><td class="auto-style3">
 		Back side</td></tr></table><br class="auto-style3">
 <p>In the signal wire between LED_PIN 5 (D5) of the Arduino and the SK6812 LED 
@@ -196,7 +191,10 @@ board can also be used for the <a href="https://github.com/ednieuw/Fibonaccicloc
 </p>
 <p>At the bottom of this page 
 the latest PCB version with more connections.</p>
-<table><tr><td><img alt="Onrush" src="Bouwpakketkleur_files/Onrush%20preventer_pcb.jpg" width="270" class="auto-style3"></td><td><img alt="PCB V03" height="306" src="Bouwpakketkleur_files/PCB-V03-WP_20171128_002.jpg" width="450" class="auto-style3"></td></tr><tr><td colspan="2"><img alt="PCB V03" height="699" src="Bouwpakketkleur_files/FibonacciklokPCBV03_pcb.jpg" width="906" class="auto-style3"><br class="auto-style3"></td></tr><tr><td colspan="2"><img src="WoordklokSK6812_files/IMG_1522.JPG" width="1024" height="533" class="auto-style3"></td></tr><tr><td class="auto-style3">
+<table><tr><td><img alt="Onrush" src="Bouwpakketkleur_files/Onrush%20preventer_pcb.jpg" class="auto-style3"></td>
+<td><img alt="PCB V03" src="Bouwpakketkleur_files/PCB-V03-WP_20171128_002.jpg" class="auto-style3"></td>
+</tr><tr><td colspan="2"><img alt="PCB V03" height="699" src="Bouwpakketkleur_files/FibonacciklokPCBV03_pcb.jpg" width="906" class="auto-style3"><br class="auto-style3"></td></tr><tr><td colspan="2"><img src="WoordklokSK6812_files/IMG_1522.JPG" class="auto-style3"></td>
+</tr><tr><td class="auto-style3">
 	Connections in the case</td><td class="auto-style3">&nbsp;
 	</td></tr></table><span class="style1"><br>// digitale port connections on Arduino&nbsp; D2 - D13<br>
 	</span>
@@ -255,7 +253,8 @@ ports but it will extend the life of the module if the voltage is lowered to
 3.3V.<br>This can be done with a 3.3V-5V TTL Level Logic Level Converter module, 
 or with a voltage divider circuit with resistors as shown below.<br>You can also 
 mount the resistors in the wiring from the module to the printed circuit board.</p>
-<p><font class="auto-style3"><br><br><img alt="Schema BT" height="277" src="Bouwpakket_files/Bluetooth3_3V.jpg" width="900"><br></font><br></p>
+<p><font class="auto-style3"><br><br><img alt="Schema BT" src="Bouwpakket_files/Bluetooth3_3V.jpg"><br>
+</font><br></p>
 <p><strong>Bluetooth with the HM10 BLE for Android and Apple IOS</strong><br>
 With this HM10 BLE module you can communicate with Apple IOS and Android.<br>After that, commands can be sent 
 with a serial terminal program (<a href="https://apps.apple.com/tt/app/bleserial-hm-10/id1602239700#?platform=iphone">BLEserial HM-10 for IOS 
@@ -266,7 +265,9 @@ with the Bluetooth module.<br>See previous section for AT commands<br>
 AT+NAMEnewname gives the module the name: newname</p>
 <p><a href="https://ednieuw.home.xs4all.nl/BLESerial/BLESerialUsage.html">More info about Bluetooth 
 communication on this page</a></p>
-<p><font><br><img alt="HM-10 BT" height="517" src="Bouwpakket_files/HM10-FTDI.jpg" width="745"><br><br><strong>DCF77-ontvangst met DCF-2 module </strong><br><br><img alt="DCF-2" height="322" src="Bouwpakket_files/DCF-2.jpg" width="450"><br></font></p>
+<p><font><br><img alt="HM-10 BT" src="Bouwpakket_files/HM10-FTDI.jpg"><br>
+<br><strong>DCF77-ontvangst met DCF-2 module </strong><br><br><img alt="DCF-2" src="Bouwpakket_files/DCF-2.jpg"><br>
+</font></p>
 <p>Unfortunately, the ICs in the color LEDs interfere with DCF reception. With 
 the SK6812 LEDs the interference seems less than with WS2812 color LEDs.<br>With 
 these color LEDs, the DCF receiver module must be mounted 10 cm or more from the 
@@ -284,17 +285,8 @@ optimal DCF reception, responding to an interrupt is not necessary for the
 rotary encoder.<br>Look in the source of the version of the software under "PIN 
 Assigments" for the correct connection.</p>
 <p><font class="auto-style3"><br><a href="https://ednieuw.home.xs4all.nl/Woordklok/DCF77/DCF77_Arduino.html">Here some 
-background information DCF.</a><br>
-</font></p>
-<p><strong>Source code<br>
-<a href="4LanguageClock/Four-language_Clock_V003/Four-language_Clock_V003.ino">
-Four-language_Clock_V003.ino</a>&nbsp;&nbsp;
-<a href="4LanguageClock/Four-language_Clock_V003.zip">als ZIP-file</a><br></strong></p>
-<p><span class="auto-style3"><strong>Version february 2022 </strong>This version 
-is also suited&nbsp;
-<a href="WoordklokSK6812.htm">for clock with one language and 144 characters</a><strong><br>
-<a href="4LanguageClock/Character_Colour_Clock_V078/Character_Colour_Clock_V078.ino">Four language word clock_V078.ino</a>&nbsp;
-<a href="4LanguageClock/Character_Colour_Clock_V078.zip">as zip-file</a></strong></span></p>
+background information DCF</a></font></p>
+<p>&nbsp;</p>
 <p class="auto-style3"><a href="Libraries-needed-for-ColourClock.zip">Libraries needed</a> 
 in this zip-file the needed libraries.<br>
 </p><p class="auto-style3"><strong>Software<br></strong></p>
@@ -318,8 +310,8 @@ through terminals D6 and D7.<br>In the current version, D6 and D7 are used for
 the Bluetooth module and the pads at D6 and D7 must be soldered closed.<br>The 
 signal wire in V14 to the LEDs has been moved relative to V13 so that the 
 position of the connections corresponds to the LED strip.</p>
-<br>&nbsp;<img alt="PCB versie V14" height="535" src="WoordklokSK6812_files/ColourWordClockPCBV13.jpg" width="850"><br>
-<img alt="PCB V13" height="675" src="WoordklokSK6812_files/V13PCB.JPG" width="900"><br><br class="auto-style3">
+<br>&nbsp;<img alt="PCB versie V14" src="WoordklokSK6812_files/ColourWordClockPCBV13.jpg"><br>
+<img alt="PCB V13" src="WoordklokSK6812_files/V13PCB.JPG"><br>
+<br class="auto-style3">
 <p class="auto-style2"><font class="auto-style3">
-&nbsp;&lt;- <a href="../index.html">Start page</a></font></p>
-<p><font class="auto-style3">Ed Nieuwenhuys. May 2022</font></p>
+</font></p>
