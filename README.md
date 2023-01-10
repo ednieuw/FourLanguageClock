@@ -1,21 +1,8 @@
-<style type="text/css">
-<!--
-h1,h2,h3,h4,h5,h6 {	font-family: Verdana, Arial, Helvetica, sans-serif;}
-.style6 {font-family: Verdana, Arial, Helvetica, sans-serif}
-.style2 {font-family: "Courier New", Courier, mono}
-.style3 {font-size: x-small}
-.style4 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; }
-.auto-style11 {font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.auto-style3 {	border-width: 0px;
-}
--->
-</style>
-</head>
-<body class="style6" style="background-color: #808080">
-<h1 class="auto-style3">&nbsp;SK6812 four languages word clock</h1>
-<p>With this clock the time can be displayed as text in the languages ​​Dutch, 
-French, English and German.<br>This clock was the ultimate challenge to make 
+
+<h1>&nbsp;SK6812 four languages word clock</h1>
+<p>With this clock time can be displayed as text in the languages Dutch, 
+French, English and German.<br>
+This clock was the ultimate challenge to make 
 with its predecessor a single language word clock and Fibonacci clocks.<br>The 
 software to control the clock is written for Arduino with a minimum memory of 
 48K such as the cheap Arduino Nano Every.<br>In addition to controlling the 
@@ -23,33 +10,31 @@ correct time, there are many options that can be set in the program.<br>For
 example, a single language for a clock with 144 (12x12) LEDs, various membrane 
 keypads, a rotary, digital displays, a DCF77 atomic time receiver, Bluetooth 
 connection to a mobile phone, and support for SK6812 and other LED strips.</p>
-<p class="auto-style3">&nbsp;</p>
+<p >&nbsp;</p>
 <table>
   <tr><td><a href="4LanguageClock/IMG_5557.JPG">
 	<img src="4LanguageClock/IMG_5557k.JPG" alt="Four language clock color" "></a></td><td>
 	<a href="4LanguageClock/IMG_5560.JPG">
 	<img src="4LanguageClock/IMG_5560k.JPG" alt="Four language clock white" ="450"></a></td>
 </tr><tr><td>
-		<font class="auto-style3">
 <br>
-		<p>&nbsp;</p>
-		<p>The four-language word clock uses 625 SK6812 RGBW LED strips.<br>RGBW 
-		LED strips have a white LED in addition to the red, green and blue LED.<br>
-		This makes it possible to make the letters light up bright white. The 
-		colors are also sparkling with these SK6812 LEDs.<br>The library used to 
-		drive the LEDs also supports the use of many types of other LEDs.<br>
-		<br><br>SK6812 LEDs each contain a small processor, which means that the 
-		entire chain of LEDs can be controlled with one wire.</p>
-  </font></td><td><div align="left">
-			<a href="4LanguageClock/4-talenklok_IMG_1176.jpg">
-			<img src="4LanguageClock/4languageclockIMG_1176.jpg" alt="Word clock with four languages" border="0"></a></div></td></tr></table>
-<p><font class="auto-style3">&nbsp;&lt;- <a href="../index.html">Start page<br></a><br><img src="WoordklokSK6812_files/IMG_1554.jpg"><br>
+<p>&nbsp;</p>
+<p>The four-language word clock uses 625 SK6812 RGBW LED strips.<br>RGBW 
+LED strips have a white LED in addition to the red, green and blue LED.<br>
+This makes it possible to make the letters light up bright white. The 
+colors are also sparkling with these SK6812 LEDs.<br>The library used to 
+drive the LEDs also supports the use of many types of other LEDs.<br>
+<br><br>SK6812 LEDs each contain a small processor, which means that the 
+entire chain of LEDs can be controlled with one wire.</p>
+</td><td><div align="left">
+<a href="4LanguageClock/4-talenklok_IMG_1176.jpg">
+<img src="4LanguageClock/4languageclockIMG_1176.jpg" alt="Word clock with four languages" border="0"></a></div></td></tr>
+</table>
+<p>&nbsp;&lt;- <a href="https://ednieuw.home.xs4all.nl/Woordklok/index.html">Overview home page<br></a><br><img src="WoordklokSK6812_files/IMG_1554.jpg"><br>
 <br>
-</font>The color word clock consists of the parts as shown in the table below.<br>
-You can order the electronics and PCB from me. I do not have the case and word 
-plate in stock.<br>Having a word plate made will cost 300 to 500 euros. JPGs of 
-two designs below.</p>
-<br class="auto-style3"><span class="auto-style3"><strong>Accessories</strong></span><br>
+
+<br ><span><strong>Accessories</strong></span><br>
+The color word clock consists of the parts as shown in the table below.<br>
 <table cellspacing="0">
   <tr>
     <td class="xl67" width="277">1 x case for 50x50 cm word plate </td>
@@ -58,7 +43,7 @@ two designs below.</p>
   <tr>
     <td class="xl70">1 x word plate <br>
       JPG-file with:<br>
-      <a href="4LanguageClock/Viertalen-AlleLetters-23okt2018_50x50cm.jpg">All 625 characters</a><br>
+<a href="4LanguageClock/Viertalen-AlleLetters-23okt2018_50x50cm.jpg">All 625 characters</a><br>
 	      <br>
           <a href="4LanguageClock/Viertalen-23okt2018_50x50cm.jpg">With a cross</a></td>
     <td class="xl75"> <a href="4LanguageClock/Viertalen-AlleLetters-23okt2018_50x50cm.jpg"><img alt="woordplaat" src="Bouwpakket_files/image001.jpg" width="100" class="auto-style3"></a> </td>
@@ -200,8 +185,8 @@ prevent light leakage.</p>
 <table><tr><font face="Verdana, Arial, Helvetica, sans-serif"><td>
 <img alt="Spacerplaat" src="4LanguageClock/IMG_5347.JPG"> </td>
 <td><img src="WoordklokSK6812_files/IMG_1523.jpg"></td> 
-</font></tr><tr><td class="auto-style3">spacer plate</td><td class="auto-style3">
-		Back side</td></tr></table><br class="auto-style3">
+</font></tr><tr><td>spacer plate</td><td">
+Back side</td></tr></table><br">
 <p>In the signal wire between LED_PIN 5 (D5) of the Arduino and the SK6812 LED 
 connection Di is a 470 Ohm resistor.<br>A 1 mF (1000 uF) capacitor is placed 
 across the GND and 5V to the LED strip to dampen the turn-on voltage.<br>The 
@@ -215,8 +200,8 @@ board can also be used for the <a href="https://github.com/ednieuw/Fibonaccicloc
 the latest PCB version with more connections.</p>
 <table><tr><td><img alt="Onrush" src="Bouwpakketkleur_files/Onrush%20preventer_pcb.jpg" class="auto-style3"></td>
 <td><img alt="PCB V03" src="Bouwpakketkleur_files/PCB-V03-WP_20171128_002.jpg" class="auto-style3"></td>
-</tr><tr><td colspan="2"><img alt="PCB V03" height="699" src="Bouwpakketkleur_files/FibonacciklokPCBV03_pcb.jpg" width="906" class="auto-style3"><br class="auto-style3"></td></tr><tr><td colspan="2"><img src="WoordklokSK6812_files/IMG_1522.JPG" class="auto-style3"></td>
-</tr><tr><td class="auto-style3">
+</tr><tr><td colspan="2"><img alt="PCB V03" height="699" src="Bouwpakketkleur_files/FibonacciklokPCBV03_pcb.jpg" width="906" class="auto-style3"><br class="auto-style3"></td></tr><tr><td colspan="2"><img src="WoordklokSK6812_files/IMG_1522.JPG"></td>
+</tr><tr><td>
 	Connections in the case</td><td class="auto-style3">&nbsp;
 	</td></tr></table><span class="style1"><br>// digitale port connections on Arduino&nbsp; D2 - D13<br>
 	</span>
