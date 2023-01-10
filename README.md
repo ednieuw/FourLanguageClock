@@ -53,99 +53,121 @@ two designs below.</p>
 <table cellspacing="0">
   <tr>
     <td class="xl67" width="277">1 x case for 50x50 cm word plate </td>
+    <td class="xl74" width="136"><img alt="kast" src="Bouwpakket_files/image003.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
-    <td class="xl70">1 x word plate <br>JPG-file with:<br>
-	<a href="4LanguageClock/Viertalen-AlleLetters-23okt2018_50x50cm.jpg">All 
-	625 characters</a><br><br>
-	<a href="4LanguageClock/Viertalen-23okt2018_50x50cm.jpg">With a cross</a></td>
+    <td class="xl70">1 x word plate <br>
+      JPG-file with:<br>
+      <a href="4LanguageClock/Viertalen-AlleLetters-23okt2018_50x50cm.jpg">All 625 characters</a><br>
+	      <br>
+          <a href="4LanguageClock/Viertalen-23okt2018_50x50cm.jpg">With a cross</a></td>
+    <td class="xl75"> <a href="4LanguageClock/Viertalen-AlleLetters-23okt2018_50x50cm.jpg"><img alt="woordplaat" src="Bouwpakket_files/image001.jpg" width="100" class="auto-style3"></a> </td>
   </tr>
   <tr>
     <td class="xl71">1 x Spacerplaat, foamed PVC wit 10 MM RAL 9003</td>
+    <td class="xl76"><img src="WoordklokSK6812_files/Spacer.JPG" alt="spacerplaat" width="109" height="90" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x PCB SK6812-klok </td>
+    <td class="xl75"><img alt="PCB" src="Bouwpakketkleur_files/PCB-V03-WP_20171128_002.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x 1000 µF capacitor </td>
+    <td class="xl75"><img alt="1000 µF condensator " src="Bouwpakket_files/image011.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x 1.1kΩ resistor </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">1 x 2.2kΩ resistor </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">1 x 470kΩ resistor (1-3 needed) </td>
+    <td class="xl75"><img alt="470O weerstand " src="Bouwpakket_files/470Ohm.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x LED red </td>
+    <td class="xl75"><img border=0
+  width=94 height=26 src="Bouwpakket_files/image018.jpg" class="auto-style11"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x LED yellow </td>
+    <td class="xl75"><img border=0
+  width=93 height=24 src="Bouwpakket_files/image019.jpg" class="auto-style11"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x 2-pin female connector </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">1 x 3-pin female connector </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">1 x 5-pin female connector </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">2 x 6-pin female connector </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">2 x 15-pin female connector </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">1 x Arduino Nano Every </td>
+    <td class="xl75">&nbsp; </td>
   </tr>
   <tr>
     <td class="xl70">1 x SK6812 LED-strip 625 LEDs </td>
+    <td class="xl75"><img alt="WS2812" src="Bouwpakketkleur_files/WS2812strip.JPG" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl67">1 x&nbsp; KY-040 Keyes Rotary Encoder </td>
+    <td class="xl74"><img alt="KY-040 Keyes Rotary Encoder" src="Bouwpakket_files/image026.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x 4x3 membrane keypad </td>
+    <td class="xl75">
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td class="xl70">1 x RCT DS3231 clock module ZS-042 </td>
+    <td class="xl70">1 x RCT DS3231 clock module <br>
+      ZS-042 </td>
+    <td class="xl75"><img alt="DS3231" src="Bouwpakket_files/image022.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x CR 2032 3V lithium battery </td>
+    <td class="xl75"><img alt="Batterij" src="Bouwpakket_files/image023.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl70">1 x light sensor </td>
+    <td class="xl75"><img alt="Lichtsensor" src="Bouwpakket_files/image027.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl71">1 x 22kΩ resistor </td>
+    <td class="xl76"><img alt="22kO weerstand " src="Bouwpakket_files/image007.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
-    <td class="xl70">1 x Adapter 5V DC,&gt;2 Ampere </td>
+    <td class="xl70">1 x Adapter 5V DC, &gt;2 Ampere </td>
+    <td class="xl75"><img alt="Voeding220V" src="Bouwpakketkleur_files/Voeding%205V2A-220V.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
-    <td class="xl70">1 x Female 5.5 x 2.1mm DC Power plug </td>
+    <td class="xl67">1 x Verlichtingsgrondplaat 3 x 300 x 300 mm MDF-plaat </td>
+    <td class="xl74">&nbsp; </td>
   </tr>
   <tr>
-    <td class="xl67">1 x  3 x 300 x 300 mm MDF-plate</td>
-  </tr>
-  <tr>
-    <td class="xl70">&nbsp;</td>
+    <td class="xl70">1 x Adapter 5V DC, &gt;2 Ampere </td>
+    <td class="xl91"><img alt="Voeding" src="Bouwpakketkleur_files/Voeding%205V3A.jpg" width="100" class="auto-style3"> </td>
   </tr>
   <tr>
     <td class="xl67">Wireless Serial 6 Pin Bluetooth RF Transceiver Module HM10 (voor Iphone, IPad) </td>
-  </tr>
-  <tr>
-    <td class="xl71">&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="xl103">&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="xl103">&nbsp;</td>
+    <td class="xl74"><img alt="HM10 BT" src="Bouwpakket_files/HM-10.jpg" width="100" class="auto-style3"> </td>
   </tr>
 </table>
 <p class="auto-style3"><strong><br class="auto-style3">
