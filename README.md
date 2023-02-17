@@ -1,5 +1,5 @@
 
-<h1>&nbsp;SK6812 four languages word clock</h1>
+<h1>&nbsp;SK6812 Four languages word clock</h1>
 <p>With this clock time can be displayed as text in the languages Dutch, 
 French, English and German.<br>
 This clock was the ultimate challenge to make 
