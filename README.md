@@ -30,7 +30,7 @@ entire chain of LEDs can be controlled with one wire.</p>
 <a href="4LanguageClock/4-talenklok_IMG_1176.jpg">
 <img src="4LanguageClock/4languageclockIMG_1176.jpg" alt="Word clock with four languages" border="0"></a></div></td></tr>
 </table>
-<p>&nbsp;&lt;- <a href="https://ednieuw.home.xs4all.nl/Woordklok/index.html">Overview home page<br></a><br><img src="WoordklokSK6812_files/IMG_1554.jpg"><br>
+<p>&nbsp;&lt;- <a href="https://ednieuw.nl/Woordklok/index.html">Overview home page<br></a><br><img src="WoordklokSK6812_files/IMG_1554.jpg"><br>
 <br>
 
 <br ><span><strong>Accessories</strong></span><br>
@@ -270,7 +270,7 @@ scanner from Blue Pixel Technologies) and the clock output can be collected.<br>
 <br>Linked via an FTDI, AT commands can be given with the Arduino serial monitor 
 with the Bluetooth module.<br>See previous section for AT commands<br>
 AT+NAMEnewname gives the module the name: newname</p>
-<p><a href="https://ednieuw.home.xs4all.nl/BLESerial/BLESerialUsage.html">More info about Bluetooth 
+<p><a href="https://ednieuw.nl/BLESerial/BLESerialUsage.html">More info about Bluetooth 
 communication on this page</a></p>
 <p><font><br><img alt="HM-10 BT" src="Bouwpakket_files/HM10-FTDI.jpg"><br>
 <br><strong>DCF77-ontvangst met DCF-2 module </strong><br><br><img alt="DCF-2" src="Bouwpakket_files/DCF-2.jpg"><br>
@@ -291,7 +291,7 @@ on decoder). This is now connected to P8.<br>(Pin 2 is an interrupt pin. For
 optimal DCF reception, responding to an interrupt is not necessary for the 
 rotary encoder.<br>Look in the source of the version of the software under "PIN 
 Assigments" for the correct connection.</p>
-<p><font class="auto-style3"><br><a href="https://ednieuw.home.xs4all.nl/Woordklok/DCF77/DCF77_Arduino.html">Here some 
+<p><font class="auto-style3"><br><a href="https://ednieuw.nl/Woordklok/DCF77/DCF77_Arduino.html">Here some 
 background information DCF</a></font></p>
 <p>&nbsp;</p>
 <p class="auto-style3"><a href="Libraries-needed-for-ColourClock.zip">Libraries needed</a> 
