@@ -3,10 +3,14 @@
 <p>With this clock time can be displayed as text in the languages Dutch, 
 French, English and German.<br>
 This clock was the ultimate challenge to make 
-with its predecessor a single language word clock and Fibonacci clocks.<br>The 
-software to control the clock is written for Arduino with a minimum memory of 
-48K such as the cheap Arduino Nano Every.<br>In addition to controlling the 
-correct time, there are many options that can be set in the program.<br>For 
+with its predecessor a single language word clock and Fibonacci clocks.<br>
+	The software to control the clock is written for Arduino with a minimum memory of 
+48K such as the cheap Arduino Nano Every.<br>
+	
+(Update Apr 2026) For the Arduino Nano ESP32 use ESP32_WordclockV202 from this repository.<br>
+[For the manual and latest versions see here](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock)
+	
+In addition to controlling the correct time, there are many options that can be set in the program.<br>For 
 example, a single language for a clock with 144 (12x12) LEDs, various membrane 
 keypads, a rotary, digital displays, a DCF77 atomic time receiver, Bluetooth 
 connection to a mobile phone, and support for SK6812 and other LED strips.</p>
